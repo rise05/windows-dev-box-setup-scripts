@@ -37,16 +37,16 @@ To run a recipe script, click a link in the table below from your target machine
 
 |Click link to run  |Description  |
 |---------|---------|
-|[Full Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app.ps1') | Windows Desktop App Development (Visual Studio, Windows SDK, C++, UWP, .NET (WPF and Winforms)) |
-|[UWP Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app_desktop_uwp.ps1')     | Windows Desktop App Development (Visual Studio, Windows SDK, UWP) |
-|[.NET Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app_desktop_.NET.ps1')     | Windows Desktop App Development (Visual Studio, Windows SDK, .NET (WPF and Winforms)) |
-|[C++ Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app_desktop_cplusplus.ps1')  | Windows Desktop App Development (Visual Studio, Windows SDK, C++) |
-|[Web](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_web.ps1') | Web (VS Code, WSL, Multiple Browsers)        |
-|[Web NodeJS](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_web_nodejs.ps1')     | Web Dev with NodeJS (Web + NodeJS LTS)¹        |
-|[Web Extended](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_web_extended.ps1') | Web (VS Code, WSL, Multiple Browsers)        |
-|[Machine Learning Windows](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_ml_windows.ps1')| Machine Learning with only Windows native tools        |
-|[Machine Learning Linux](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_ml_wsl.ps1')| Machine Learning with Linux tools running on WSL        |
-|[DevOps Azure](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/devops_azure.ps1')| Client setup for DevOps with Azure      |
+|[Full Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app.ps1) | Windows Desktop App Development (Visual Studio, Windows SDK, C++, UWP, .NET (WPF and Winforms)) |
+|[UWP Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app_desktop_uwp.ps1)     | Windows Desktop App Development (Visual Studio, Windows SDK, UWP) |
+|[.NET Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app_desktop_.NET.ps1)     | Windows Desktop App Development (Visual Studio, Windows SDK, .NET (WPF and Winforms)) |
+|[C++ Desktop App](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_app_desktop_cplusplus.ps1)  | Windows Desktop App Development (Visual Studio, Windows SDK, C++) |
+|[Web](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_web.ps1) | Web (VS Code, WSL, Multiple Browsers)        |
+|[Web NodeJS](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_web_nodejs.ps1)     | Web Dev with NodeJS (Web + NodeJS LTS)¹        |
+|[Web Extended](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_web_extended.ps1) | Web (VS Code, WSL, Multiple Browsers)        |
+|[Machine Learning Windows](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_ml_windows.ps1)| Machine Learning with only Windows native tools        |
+|[Machine Learning Linux](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/dev_ml_wsl.ps1)| Machine Learning with Linux tools running on WSL        |
+|[DevOps Azure](http://boxstarter.org/package/url?https://raw.githubusercontent.com/rise05/windows-dev-box-setup-scripts/master/devops_azure.ps1)| Client setup for DevOps with Azure      |
 |     | Xamarin (Visual Studio, Xamarin, Android SDK) |
 |     | Containers (Docker, Kubernetes, etc...)        |
 |     | Submit a PR with a recommended configuration!        |
