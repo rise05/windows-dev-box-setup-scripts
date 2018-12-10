@@ -1,4 +1,4 @@
-choco install -y Microsoft-Windows-Subsystem-Linux --source="'windowsfeatures'"
+choco install Microsoft-Windows-Subsystem-Linux -source WindowsFeatures -y
 
 #--- Ubuntu ---
 # TODO: Move this to choco install once --root is included in that package
