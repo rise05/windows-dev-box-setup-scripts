@@ -3,13 +3,13 @@
 choco install -y git.install --params "/GitAndUnixToolsOnPath /WindowsTerminal /NoShellIntegration"
 refreshenv
 
-git config --global set core.symlinks true
-git config --global set core.autocrlf input
-git config --global set core.eol lf
-git config --global set color.status auto
-git config --global set color.diff auto
-git config --global set color.branch auto
-git config --global set color.interactive auto
-git config --global set color.ui true
-git config --global set color.pager true
-git config --global set color.showbranch auto
+git config --global core.symlinks true
+git config --global core.autocrlf input
+git config --global core.eol lf
+git config --global color.status auto
+git config --global color.diff auto
+git config --global color.branch auto
+git config --global color.interactive auto
+git config --global color.ui true
+git config --global color.pager true
+git config --global color.showbranch auto
